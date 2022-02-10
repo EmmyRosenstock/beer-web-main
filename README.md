@@ -1,0 +1,2 @@
+Esse app-web é sobre informações de cerveja consumindo a api https://punkapi.com/documentation/v2
+feito em React . para clonar e rodar esse repositorio basta da um npm install e depois para vê ele rodando só colocar npm start.

@@ -1,0 +1,19 @@
+.container {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.search {
+    width: 1rem;
+    text-align: center;
+    border: none;
+    border-bottom: solid 1px;
+}
+
+.buttom {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
